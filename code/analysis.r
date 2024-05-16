@@ -18,7 +18,7 @@ library(caTools) # For splitting the data
 
 ############ Load the data #############
 # Load the data from GitHub
-df <- read.csv("https://raw.githubusercontent.com/freddie-wallace/dissertation/main/dissertation/data/banks.csv")
+df <- read.csv("https://raw.githubusercontent.com/freddie-wallace/dissertation/main/data/banks.csv")
 ########################################
 
 
