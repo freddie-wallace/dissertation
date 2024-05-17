@@ -10,7 +10,7 @@ The PDF document will be added to this repository once it has been officially re
 
 - **Data:** The processed banks dataset in csv format used for the analysis.
 - **Code:** The SQL script used to create the banks csv and an R Script for data preprocessing, exploratory data analysis, modelling, and evaluation.
-- **Maps:** High resolution CSVs of Maps used in the document.
+- **Maps:** High resolution SVGs of Maps used in the document.
 
 ## Data
 
